@@ -29,7 +29,7 @@ There are off-label uses, Google isn't a replacement to professional help, but t
 
 With that being said, especially in the area of mental health, a lot of professionals are ill-informed, ignorant, biased <br>
 and sometimes downright malicious. I say this as a student of Psychology, as a student who has been through lecture <br>
-where the professors perpetuate stigma. As a person whose friends have been through the same. <br> (Here)[https://journals.lww.com/academicmedicine/fulltext/2021/05000/professional_stigma_of_mental_health_issues_.27.aspx] (are)[http://bibliobase.sermais.pt:8008/BiblioNET/Upload/PDF13/009809%20Lancet%20Psychiatry%202014,%206,%20%20467-482.pdf] (some)[https://www.psychiatry.org/patients-families/stigma-and-discrimination] (links)[https://www.frontiersin.org/articles/10.3389/fpsyt.2020.00326/full]. 
+where the professors perpetuate stigma. As a person whose friends have been through the same. <br> [Here](https://journals.lww.com/academicmedicine/fulltext/2021/05000/professional_stigma_of_mental_health_issues_.27.aspx) [are](http://bibliobase.sermais.pt:8008/BiblioNET/Upload/PDF13/009809%20Lancet%20Psychiatry%202014,%206,%20%20467-482.pdf) [some](https://www.psychiatry.org/patients-families/stigma-and-discrimination) [links](https://www.frontiersin.org/articles/10.3389/fpsyt.2020.00326/full)
 <br>
 This is not to chastise professionals, but this is a reminder that if you have been burnt out by professionals, <br>
 you're not alone and you have not exhausted all your options. ♥
