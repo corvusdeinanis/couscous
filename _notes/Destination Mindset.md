@@ -1,7 +1,7 @@
 ---
 title : Destination Mindset
-tag : mindfullness reflections 
-___
+tag : [mindfullness,reflections]
+---
 
 # Destination Mindset and Mindfullness
 
