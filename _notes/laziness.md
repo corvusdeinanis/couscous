@@ -1,6 +1,6 @@
 ---
 title : You Are Not Lazy 
-tag : reframe perspective 
+tag : [reframe, perspective]
 ---
 
 ## You Are Not Lazy 
