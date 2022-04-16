@@ -1,6 +1,7 @@
 ---
 title: Your first seed
 tags: meow bow
+tag:awoo
 ---
 
 ### Welcome!
