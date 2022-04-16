@@ -5,6 +5,10 @@ id: home
 permalink: /
 ---
 
+<h3>Notes - Page {{page.pagination_info.curr_page}} of {{page.pagination_info.total_pages}}</h3>
+
+{% include notes.html %}
+
 # Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
@@ -23,3 +27,5 @@ This digital garden template by Maxime Vaillancourt is free, open-source, and [a
     max-width: 46em;
   }
 </style>
+
+   
