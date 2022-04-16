@@ -1,22 +1,14 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8cfa8785-8df8-4aad-ad35-8f1c790b8baf/deploy-status)](https://app.netlify.com/sites/digital-garden-jekyll-template/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1cac4dec-ac48-482c-9b73-9b714745fc4b/deploy-status)](https://app.netlify.com/sites/healinggarden/deploys)
 
-# Digital garden Jekyll template
+# Healing Garden - A digital garden that focuses on mental health, intersectional healing, and trauma. 
 
-Use this template repository to get started with your own digital garden.
+A compendium of resources, reflections, and more that hope to make a teeny tiny contribution towards making
+mental health more accessible. 
 
-**I wrote a tutorial explaining how to set it up: [Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)**
 
-Preview the template here: https://digital-garden-jekyll-template.netlify.app/
+Website based on code by Maxime Vaillancourt - [Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll) 
 
-- Based on Jekyll, a static website generator
-- Supports Roam-style double bracket link syntax to other notes
-- Creates backlinks to other notes automatically
-- Features link previews on hover
-- Includes graph visualization of the notes and their links
-- Features a simple and responsive design
-- Supports Markdown or HTML notes
-
-<img width="1522" alt="Screen Shot 2020-05-19 at 23 05 46" src="https://user-images.githubusercontent.com/8457808/82400515-7d026d80-9a25-11ea-83f1-3b9cb8347e07.png">
+Github -> https://github.com/maximevaillancourt/digital-garden-jekyll-template
 
 ## License
 
