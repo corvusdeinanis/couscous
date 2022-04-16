@@ -8,9 +8,6 @@ pagination:
 
 ---
 
-<h3>Notes - Page {{page.pagination_info.curr_page}} of {{page.pagination_info.total_pages}}</h3>
-
-{% include notes.html %}
 
 # Welcome! 🌱
 
@@ -31,4 +28,8 @@ This digital garden template by Maxime Vaillancourt is free, open-source, and [a
   }
 </style>
 
+   
+<h3>Notes - Page {{page.pagination_info.curr_page}} of {{page.pagination_info.total_pages}}</h3>
+
+{% include notes.html %}
    
