@@ -1,6 +1,6 @@
 ---
 title : Cognitive Distortions
-tag : CBT therapy tool
+tag : [CBT,therapy,tool]
 ---
 
 
