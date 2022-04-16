@@ -49,7 +49,7 @@ pagination:
   enabled: true
   debug: false
   collection: 'notes'
-  per_page: 6
+  per_page: 2
   permalink: '/page/:num.html'
   title: ':title - page :num of :max'
   sort_field: 'date'
