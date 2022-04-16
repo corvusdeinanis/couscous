@@ -1,6 +1,6 @@
 ---
 title : Marsha Linehan
-tag: people author
+tag: [people, author]
 --- 
 
 
