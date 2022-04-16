@@ -1,6 +1,6 @@
 ---
 title : Spoon Theory
-tag : resource reframe 
+tag : [resource, reframe] 
 ---
 *“[The Spoon Theory](https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/)”, a personal story by Christine Miserandino, is popular among many people dealing with chronic illness. It describes perfectly this idea of limited energy, using “spoons” as a unit of energy.*   - from [Healthline](https://www.healthline.com/health/spoon-theory-chronic-illness-explained-like-never-before#1)
 
