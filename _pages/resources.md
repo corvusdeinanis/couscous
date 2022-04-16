@@ -4,7 +4,7 @@ layout: page
 id : resources
 permalink : /resources
 ---
-
+<pre>
 In danger? Please talk to someone, a professional or even someone you can trust, or a helpline. Wait for the wave to pass. https://unitedgmh.org/mental-health-support
 Need Someone to Talk to? -> https://www.7cups.com/ (free volunteer listeners and paid counsellors are both available) 
 
@@ -38,7 +38,7 @@ My Personal Stash of Wholesomeness -> https://imgur.com/gallery/4s3ew5u
 
 https://www.mentalhealthfirstaid.org/mental-health-resources/
 
-
+<pre> 
 
 
 Broken link or resource doesn't work? <a href ="https://x6lvi3x3kp9.typeform.com/to/s8MoB0oU"> Let us know </a>
