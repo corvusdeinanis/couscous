@@ -1,9 +1,9 @@
 ---
 title : Destination Mindset
-tag : [mindfullness,reflections]
+tag : [mindfulness,reflections]
 ---
 
-# Destination Mindset and Mindfullness
+# Destination Mindset and Mindfulness
 
 >[!INFO] Who will this help?
 >Everyone! But mostly people who aren't in distress currently
