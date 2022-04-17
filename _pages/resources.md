@@ -20,7 +20,7 @@ a:hover {
 }
 
 </style>
-
+<p style="padding: 3em 1em; background: #fcd7d6; border-radius: 4px;max-width: 70%;padding-right: 15px; padding-left: 15px; margin-left: 16.666667%;"> 
 In danger? Please talk to someone, a professional or even someone you can trust, or a helpline. Wait for the wave to pass. <br> 
 
 <a> https://unitedgmh.org/mental-health-support </a> <br> <br>
@@ -72,6 +72,7 @@ My Personal Stash of Wholesomeness -><a> https://imgur.com/gallery/4s3ew5u</a>
 
 <a>https://www.mentalhealthfirstaid.org/mental-health-resources/</a>
 
+</p>
 ___
 
 
