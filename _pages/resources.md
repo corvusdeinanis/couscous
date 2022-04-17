@@ -27,8 +27,10 @@ In danger? Please talk to someone, a professional or even someone you can trust,
 Need Someone to Talk to? -> <a> https://www.7cups.com/ </a> (free volunteer listeners and paid counsellors are both available) 
 
 If anyone is being rude, invalidating or unpleasant (helpline or otherwise), please skip and talk to someone else. ♥
-<hr> 
+</p> 
+<hr>
 
+<div style"padding: 3em 1em; background: #fcd7d6; border-radius: 4px;max-width: 70%;padding-right: 15px; padding-left: 15px; margin-left: 16.666667%;"> 
 # Free Resources
 
 ## Websites / Web Apps (no download required)
@@ -72,8 +74,8 @@ My Personal Stash of Wholesomeness -><a> https://imgur.com/gallery/4s3ew5u</a>
 
 <a>https://www.mentalhealthfirstaid.org/mental-health-resources/</a>
 
-</p>
+</div>
 ___
 
 
-Broken link or resource doesn't work? <a href ="https://x6lvi3x3kp9.typeform.com/to/s8MoB0oU"> Let us know </a>
+Broken link or resource doesn't work? <a href ="https://x6lvi3x3kp9.typeform.com/to/s8MoB0oU"> Let me know! </a>
