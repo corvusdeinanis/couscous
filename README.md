@@ -5,7 +5,7 @@
 A compendium of resources, reflections, and more that hope to make a teeny tiny contribution towards making
 mental health more accessible. 
 
-
+<hr>
 Website based on code by Maxime Vaillancourt - [Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll) 
 
 Github -> https://github.com/maximevaillancourt/digital-garden-jekyll-template
