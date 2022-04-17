@@ -30,7 +30,7 @@ If anyone is being rude, invalidating or unpleasant (helpline or otherwise), ple
 </p> 
 <hr>
 
-<div style"padding: 3em 1em; background: #fcd7d6; border-radius: 4px;max-width: 70%;padding-right: 15px; padding-left: 15px; margin-left: 16.666667%;"> 
+<div style:"padding: 3em 1em; background: #fcd7d6; border-radius: 4px;max-width: 70%;padding-right: 15px; padding-left: 15px; margin-left: 16.666667%;"> 
 # Free Resources
 
 ## Websites / Web Apps (no download required)
