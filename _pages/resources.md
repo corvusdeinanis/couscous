@@ -6,9 +6,9 @@ permalink : /resources
 ---
 
 <style>
-a:link {
-  text-decoration: none;
+a {
   color:#FF69B4;
+  text-decoration: none;
 }
 
 a:visited {
@@ -19,9 +19,6 @@ a:hover {
   text-decoration: underline;
 }
 
-a:active {
-  text-decoration: underline;
-}
 </style>
 
 In danger? Please talk to someone, a professional or even someone you can trust, or a helpline. Wait for the wave to pass. <br> 
@@ -69,7 +66,7 @@ Presently (minimal gratitude journal for Android, open-source!) -><a> https://pr
 
 <a> https://www.drcordes.com/blog/safetykit</a>
 
-Easy Guide to DBT Crisis Skills -> <a>https://www.manhattancbt.com/archives/1452/dbt-tipp-skills/</a>
+Easy Guide to DBT Crisis Skills -> <a> https://www.manhattancbt.com/archives/1452/dbt-tipp-skills/</a>
 
 My Personal Stash of Wholesomeness -><a> https://imgur.com/gallery/4s3ew5u</a>
 
